@@ -1,0 +1,65 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+h1{
+	text-align: center;
+	color: white;
+	background-color: #fc8f30;
+	/*For Height & Width Background*/
+	padding: 30px;
+}
+i{
+	font-weight: bold;
+}
+h2{
+	font-size: 25px;
+	color: #fc8f30;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+img{
+	/*For Right Down Image*/
+	margin: 60px;
+	/*For Image Right Side Remove*/
+	margin-right: 150px;
+}
+table{
+	margin: auto;
+	/*Remove the picture on the right*/
+	padding: 0 160px;
+}
+.class{
+	vertical-align: center;
+	width:100%;
+	padding: 52px;
+	background-color: #eeeeee;		
+}
+.class caption{
+	caption-side: top;
+	padding: 5px;
+	color: #fc8f30;
+	font-size: 19px;
+	font-weight: bold;
+	background-color: #eeeeee;
+}
+.class th{
+	padding: 5px;
+	border: 1px solid black;
+}
+.class td{
+	padding: 5px;
+	text-align: center;
+	border: 1px solid black;
+	background-color: #ffffff;
+}
+.footer{
+	height:50px;
+	background-color: #fc8f30;
+	text-align: center;
+	color: white;
+	line-height: 50px;
+}
